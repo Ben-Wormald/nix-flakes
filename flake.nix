@@ -1,5 +1,5 @@
 {
-  description = "A very basic flake";
+  description = "Node and dust";
   outputs = { self, nixpkgs }:
     let
       allSystems = [
